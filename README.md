@@ -1,2 +1,2 @@
-# aft-customizations
-Account Factory Terraform - Customizations
+# aft-global-customizations
+Account Factory Terraform - Global Customizations
